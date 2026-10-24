@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Rifo Anggi Barbara Danuarta — Applied Informatics, Politeknik Negeri Malang" width="100%">
+<img src="./banner.png" alt="Rifo Anggi Barbara Danuarta — Applied Informatics, Politeknik Negeri Malang" width="100%">
+
+<!-- Banner: banner.png is a 2x raster of banner.svg (the vector source). Regenerate after editing the SVG. -->
 
 <br>
 
