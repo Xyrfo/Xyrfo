@@ -8,7 +8,7 @@
 
 ![Open to internships 2026](https://img.shields.io/badge/Open_to_internships-2026-FF5C3D?style=flat-square)
 ![Malang, Indonesia](https://img.shields.io/badge/Malang,_Indonesia-30363D?style=flat-square&logo=googlemaps&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rifo.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://Xyrfo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Xyrfo.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://Xyrfo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fxyrfo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyrfo)
 [![Email](https://img.shields.io/badge/Email-rofo.anggi18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rofo.anggi18@gmail.com)
 
