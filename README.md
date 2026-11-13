@@ -45,9 +45,9 @@ Saat ini saya menempuh semester lima D4 Teknik Informatika di Politeknik Negeri 
 
 | Project | Year | Role | Stack |
 | :--- | :---: | :--- | :--- |
-| **[Sign.L](https://rifo.vercel.app)** | 2026 | Backend & Firebase Developer | Flutter · Provider · TensorFlow Lite · Firebase · Camera |
-| **[JoinFest](https://rifo.vercel.app)** | 2026 | E-ticket & QR Scanner Developer | Laravel · Livewire · Tailwind · MySQL · Midtrans · QR |
-| **[Lab DT](https://rifo.vercel.app)** | 2025 | Full-stack PHP Developer | PHP · PostgreSQL · Tailwind · Custom MVC |
+| **[Sign.L](https://xyrfo.vercel.app)** | 2026 | Backend & Firebase Developer | Flutter · Provider · TensorFlow Lite · Firebase · Camera |
+| **[JoinFest](https://xyrfo.vercel.app)** | 2026 | E-ticket & QR Scanner Developer | Laravel · Livewire · Tailwind · MySQL · Midtrans · QR |
+| **[Lab DT](https://xyrfo.vercel.app)** | 2025 | Full-stack PHP Developer | PHP · PostgreSQL · Tailwind · Custom MVC |
 
 Case studies and details on [xyrfo.vercel.app](https://xyrfo.vercel.app).
 
