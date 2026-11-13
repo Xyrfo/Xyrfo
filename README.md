@@ -49,7 +49,7 @@ Saat ini saya menempuh semester lima D4 Teknik Informatika di Politeknik Negeri 
 | **[JoinFest](https://rifo.vercel.app)** | 2026 | E-ticket & QR Scanner Developer | Laravel · Livewire · Tailwind · MySQL · Midtrans · QR |
 | **[Lab DT](https://rifo.vercel.app)** | 2025 | Full-stack PHP Developer | PHP · PostgreSQL · Tailwind · Custom MVC |
 
-Case studies and details on [rifo.vercel.app](https://rifo.vercel.app).
+Case studies and details on [xyrfo.vercel.app](https://xyrfo.vercel.app).
 
 ## 03 — Toolset
 
@@ -123,4 +123,4 @@ Open to full-time internships, freelance work, and applied research collaboratio
 
 - **Email** — [rofo.anggi18@gmail.com](mailto:rofo.anggi18@gmail.com)
 - **LinkedIn** — [in/xyrfo](https://www.linkedin.com/in/xyrfo)
-- **Portfolio** — [rifo.vercel.app](https://rifo.vercel.app)
+- **Portfolio** — [xyrfo.vercel.app](https://xyrfo.vercel.app)
